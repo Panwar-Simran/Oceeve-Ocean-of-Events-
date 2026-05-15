@@ -2,7 +2,7 @@
 
 > A student event management portal built in 24 hours at the **Ramanujan Tech Sprint Hackathon**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue)](https://panwar-simran.github.io/oceeve)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue)](https://panwar-simran.github.io/Oceeve-Ocean-of-Events-)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](.)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](.)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](.)
